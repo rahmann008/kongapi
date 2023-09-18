@@ -1,0 +1,13 @@
+apiVersion: v2
+entries:
+  - name: ingress
+    version: 1.0.0
+    description: Helm chart for ingress
+    urls:
+      - charts/ingress
+
+  - name: kong
+    version: 2.1.0
+    description: Helm chart for kong
+    urls:
+      - charts/kong
