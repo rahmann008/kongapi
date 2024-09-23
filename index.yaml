@@ -7,7 +7,7 @@ entries:
       - charts/ingress
 
   - name: kong
-    version: 2.1.0
+    version: 2.1.0 #version
     description: Helm chart for kong
     urls:
       - charts/kong
